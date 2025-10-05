@@ -1,29 +1,5 @@
 Hi 👋! My name is Mateus Hoffmann de Lima and I'm a Frontend Developer, from Passo Fundo, Brazil.
 
-<div align="center">
-  <table>
-    <tr>
-      <td><b>⭐ Total Stars Earned:</b></td>
-      <td><!--STARS_START-->0<!--STARS_END--></td>
-    </tr>
-    <tr>
-      <td><b>🔁 Total Commits:</b></td>
-      <td><!--COMMITS_START-->152<!--COMMITS_END--></td>
-    </tr>
-    <tr>
-      <td><b>🔀 Total PRs:</b></td>
-      <td><!--PRS_START-->0<!--PRS_END--></td>
-    </tr>
-    <tr>
-      <td><b>❓ Total Issues:</b></td>
-      <td><!--ISSUES_START-->0<!--ISSUES_END--></td>
-    </tr>
-    <tr>
-      <td><b>📦 Contributed to (last year):</b></td>
-      <td><!--REPOS_START-->178<!--REPOS_END--></td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mateushoffmann7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
