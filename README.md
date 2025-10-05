@@ -19,7 +19,7 @@ Hi 👋! My name is Mateus Hoffmann de Lima and I'm a Frontend Developer, from P
     </tr>
     <tr>
       <td><b>📦 Contributed to (last year):</b></td>
-      <td><!--REPOS_START-->0<!--REPOS_END--></td>
+      <td><!--REPOS_START-->162<!--REPOS_END--></td>
     </tr>
   </table>
 </div>
