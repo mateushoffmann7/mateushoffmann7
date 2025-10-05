@@ -7,7 +7,7 @@ Hi 👋! My name is Mateus Hoffmann de Lima and I'm a Frontend Developer, from P
     </tr>
     <tr>
       <td><b>🔁 Total Commits:</b></td>
-      <td><!--COMMITS_START-->0<!--COMMITS_END--></td>
+      <td><!--COMMITS_START-->152<!--COMMITS_END--></td>
     </tr>
     <tr>
       <td><b>🔀 Total PRs:</b></td>
@@ -19,7 +19,7 @@ Hi 👋! My name is Mateus Hoffmann de Lima and I'm a Frontend Developer, from P
     </tr>
     <tr>
       <td><b>📦 Contributed to (last year):</b></td>
-      <td><!--REPOS_START-->162<!--REPOS_END--></td>
+      <td><!--REPOS_START-->178<!--REPOS_END--></td>
     </tr>
   </table>
 </div>
