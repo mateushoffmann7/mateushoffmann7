@@ -4,7 +4,7 @@ Minha formação em Ciência da Computação (conclusão em 2029), aliada à exp
 
 Habilidades
 - Proficiente em: React, Next.js, TypeScript, TailwindCSS.
-- Experiência com: Alteryx Designer (low-code), automação de processos e resolução de problemas.
+- Experiência com: Shadcn UI, Tanstack Query e Zod.
 - Conhecimento em: Git, estruturas de teste (Jest, Cypress) e renderização server-side.
 
 <div align="center">
